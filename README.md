@@ -14,3 +14,7 @@ Especificar en el fichero AndroidManifest.xml que la primera actividad a ejecuta
 Con esto ya tendremos listo un bonito splash screen para nuestra aplicación.
 
 ![alt text](http://i.imgur.com/7sp5Lxr.png "Splash screen")
+
+
+Libreria integrada:
+http://jakewharton.github.io/butterknife/
