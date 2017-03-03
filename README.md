@@ -11,3 +11,5 @@ Creamos nuestra actividad SplashScreen.java que se ocupara de la gestión del sp
 Especificar en el fichero AndroidManifest.xml que la primera actividad a ejecutar cuando arranque la aplicación sea la actividad SplashScreen.java, ya que gestionara el splash screen.
 
 Con esto ya tendremos listo un bonito splash screen en nuestra app.
+
+![alt text](http://i.imgur.com/7sp5Lxr.png "Splash screen")
