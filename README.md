@@ -1,6 +1,7 @@
 # Splash Screen Android
-La mayoria de las aplicaciones en el mercado cuentan con una pantalla de presentación al inicio durante unos pocos segundos. 
-Este tipo de entradas se les conoce como "splash screen"
+La mayoria de las aplicaciones en el mercado cuentan con una pantalla de presentación al inicio que duran unos pocos segundos. 
+Este tipo de presentaciones se les llama "splash screen", existen splash screen estaticas y con animaciones.
+En este ejemplo crearemos un Splash screen con una simple animación slide up.
 
 La imagen(clipart) que usaremos en esta aplicación fue obtenida desde 
 https://romannurik.github.io/AndroidAssetStudio/icons-generic.html
